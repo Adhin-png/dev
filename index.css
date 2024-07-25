@@ -1,0 +1,31 @@
+.h6{
+    font:italic;
+}
+
+.card-img{
+    border-radius: 0%;
+    
+}
+
+.container-fluid{
+    background-color: grey;
+    
+}
+
+.fa-solid{
+    margin-top: 25px;
+}
+
+.fa-brands{
+    margin-top: 25px;
+  
+}
+.fa-regular{
+
+    margin-top: 25px;
+
+}
+
+body{
+    overflow: hidden;
+}
